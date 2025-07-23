@@ -1,4 +1,4 @@
-# This project is an exploratory data analysis (EDA) on the PhonePe Pulse dataset. It visualizes transaction trends, state-wise comparisons, and user behavior across India using Python and data visualization tools.
+# This project is an exploratory data analysis (EDA) on the PhonePe transaction dataset. It visualizes transaction trends, state-wise comparisons, and user behavior across India using Python and data visualization tools.
 
 ## Objectives
 To analyze the growth of PhonePe transactions over the years
